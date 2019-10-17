@@ -11,8 +11,7 @@ Tutorial de criação deste app: http://bit.ly/2MDO6ww
 
 ## Desafios dupla:
 
-- Agener Goger
-- Matheus Estoque 
+- Agener Gomes Matheus Estoque
 
 - [x] Não deixar que seja possível ficar com pontos negativos ao clicar em (-1) e também não pode ultrapassar 12 pontos.
 - [x] Permitir de alguma forma que a partida seja reiniciada, sem zerar o número de vitórias
