@@ -5,9 +5,9 @@ Aplicativo para marcar os pontos no jogo de truco criado para disciplina de Prog
 Tutorial de criação deste app: http://bit.ly/2MDO6ww
 
 <p align="center">
-    <img src="https://lh3.googleusercontent.com/-xVd5nenTNtHbNdlaf3JKY62VR_T-gVc1W5VpevZ3pw64SagZ2nrT4XyuUBDL2f7vWQ=w1920-h969-rw" width="300"/>
-    <img src="https://lh3.googleusercontent.com/4RsN1MO2-n9ubdZ7sGmsAu2pCql0xiGBL5ASOsZGDFwcagTbInNml_rfbkl5ISYhUw=w1920-h969-rw" width="300"/>
-    <img src="https://lh3.googleusercontent.com/kWzgfRP7EKMx0Kyzj6f7RrW_GItuIn0LL_baPxaxJkW-nD3aRptYweEm3XiYuwe0Ouc=w1920-h969-rw" width="300"/>
+    <img src="https://lh3.googleusercontent.com/-xVd5nenTNtHbNdlaf3JKY62VR_T-gVc1W5VpevZ3pw64SagZ2nrT4XyuUBDL2f7vWQ=w1920-h969-rw" width="200"/>
+    <img src="https://lh3.googleusercontent.com/4RsN1MO2-n9ubdZ7sGmsAu2pCql0xiGBL5ASOsZGDFwcagTbInNml_rfbkl5ISYhUw=w1920-h969-rw" width="200"/>
+    <img src="https://lh3.googleusercontent.com/kWzgfRP7EKMx0Kyzj6f7RrW_GItuIn0LL_baPxaxJkW-nD3aRptYweEm3XiYuwe0Ouc=w1920-h969-rw" width="200"/>
 </p>
 
 
