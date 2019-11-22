@@ -1,20 +1,36 @@
-# Marcador de Truco
-
-Aplicativo para marcar os pontos no jogo de truco criado para disciplina de Programação Mobile.
-
-Tutorial de criação deste app: http://bit.ly/2MDO6ww
-
-<p align="center">
-    <img src="https://lh3.googleusercontent.com/-xVd5nenTNtHbNdlaf3JKY62VR_T-gVc1W5VpevZ3pw64SagZ2nrT4XyuUBDL2f7vWQ=w1920-h969-rw" width="200"/>
-    <img src="https://lh3.googleusercontent.com/4RsN1MO2-n9ubdZ7sGmsAu2pCql0xiGBL5ASOsZGDFwcagTbInNml_rfbkl5ISYhUw=w1920-h969-rw" width="200"/>
-    <img src="https://lh3.googleusercontent.com/kWzgfRP7EKMx0Kyzj6f7RrW_GItuIn0LL_baPxaxJkW-nD3aRptYweEm3XiYuwe0Ouc=w1920-h969-rw" width="200"/>
+#
+<h3>Marcador de Truco </h3>
+<hr>
+<p>
+<h5>Faculdade de Tecnologia de Americana</h5>
+Professor: Kleber Andrade  / <a target="_blank" href="http://github.com/kleberandrade">github.com</a><br>
+Disciplina: Programação Dispositivos Móveis<br>
+3º Semestre
+<h5>Desenvolvedores:</h5>
+<ul>
+    >
+    <li>Matheus Estoque - RA: 0040481821040 / <a target="_blank" href="http://github.com/matheusestoquenuness">github.com</a></li>
+    <li>Agner Gomes - RA: 0040481821045 / <a target="_blank" href="http://github.com/agnergr11">github.com</a></li>
+</ul>
 </p>
+<hr>
+<p><h5>Aplicativo de frases para status:</h5>
+Este aplicativo foi desevolvido com a finalidade de compartilhar frases criativas para qualquer uso.
+<br><br>
+<p align="center">
+<img  src="https://lh3.googleusercontent.com/c7aTJxVPV7e4yE3l1eLjbatSLI04VC2qpyZtK7XsNng-ll9ETklsCPrtvUskcgG5p3g=w1920-h920-rw" height="400">
+<img  src="https://lh3.googleusercontent.com/JHRphiRFhg5hvjkql3KFHlCabQW0Pf8cjgjeJa5fU1pWVg4e67OV3pJv9tOmoW3YRw=w1920-h920-rw" height="400">
+<img  src="https://lh3.googleusercontent.com/8RwA6gqKeHKZi4pzO8Yc__UVLIZz-RXBEbxzgTl3oIJmjkDVGBYENV9kRgfhaPGAaNNe=w1920-h920-rw" height="400">
+<br>
+<a href="https://play.google.com/store/apps/details?id=com.estoquesoluction.marcador_truco" target="_blank"><img src="https://4.bp.blogspot.com/-1LBva3U1LCI/W6kL2pl9ZYI/AAAAAAAAFys/grkBZRKkAWE1eLAh6DPffThJ7gP__SREACLcBGAs/s1600/play_logo_16_9%2B%25285%2529.png" target="_blank" height="100"></a>
+</p>
+</p>
+<hr>
+<p><h5>Desenvolvimento:</h5>
+<li> Linguagem: Dart/Flutter<br>
+<br>
 
-
-## Desafios dupla:
-
- Agner Gomes 
- Matheus Estoque
+</p>
 
 - [x] Não deixar que seja possível ficar com pontos negativos ao clicar em (-1) e também não pode ultrapassar 12 pontos.
 - [x] Permitir de alguma forma que a partida seja reiniciada, sem zerar o número de vitórias
