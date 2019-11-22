@@ -8,7 +8,6 @@ Disciplina: Programação Dispositivos Móveis<br>
 3º Semestre
 <h5>Desenvolvedores:</h5>
 <ul>
-    >
     <li>Matheus Estoque - RA: 0040481821040 / <a target="_blank" href="http://github.com/matheusestoquenuness">github.com</a></li>
     <li>Agner Gomes - RA: 0040481821045 / <a target="_blank" href="http://github.com/agnergr11">github.com</a></li>
 </ul>
