@@ -13,8 +13,7 @@ Disciplina: Programação Dispositivos Móveis<br>
 </ul>
 </p>
 <hr>
-<p><h5>Aplicativo de frases para status:</h5>
-Este aplicativo foi desevolvido com a finalidade de compartilhar frases criativas para qualquer uso.
+<p><h5>Aplicativo para marcar os pontos da partida de truco:</h5>
 <br><br>
 <p align="center">
 <img  src="https://lh3.googleusercontent.com/c7aTJxVPV7e4yE3l1eLjbatSLI04VC2qpyZtK7XsNng-ll9ETklsCPrtvUskcgG5p3g=w1920-h920-rw" height="400">
